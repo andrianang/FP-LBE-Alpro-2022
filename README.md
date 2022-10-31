@@ -10,8 +10,8 @@
 
 Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya saja.
 <h2>Inheritance</h2>
-Pada project ini memakai inheritance : 
- 1. Telephone merupakan parent class dan memiliki 2 subclass, yaitu booth dan phone
+Pada project ini memakai inheritance :<br>
+ 1. Telephone merupakan parent class dan memiliki 2 subclass, yaitu booth dan phone<br>
  2. Phone sendiri merupakan parent dari 2 subclass, yaitu android dan apple
 
 <h2>Enkapsulasi</h2>
